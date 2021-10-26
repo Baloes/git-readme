@@ -10,6 +10,6 @@ O comando `init` me permite iniciar um repositório git
 git init
 ```
 
-### Observações
+### Observação
 
 * Após rodar o comando `init` nenhuma branch será criada, precisando primeiro realizar um primeiro `commit`
