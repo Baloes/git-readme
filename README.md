@@ -18,7 +18,7 @@ git init
 
 ## status
 
-O comando `status` permite visualizar a situação da arvore de trabalho atual, com os arquivos alterados em relação ao estado anterior
+O comando `status` permite visualizar a situação da árvore de trabalho atual, com os arquivos alterados em relação ao estado anterior
 
 ### Forma de uso
 
