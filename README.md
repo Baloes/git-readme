@@ -34,3 +34,15 @@ Permite ver o histórico de commits realizados
 git log
 ```
 
+
+## commit
+Realiza as mudanças que foram estagiadas via git add
+
+### Forma de uso
+
+```bash
+git commit
+```
+
+
+
